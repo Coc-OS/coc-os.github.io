@@ -1,3 +1,3 @@
 ## About <a name = "about"></a>
 
-[RenewOS Sitesi](https://renewos.gq) için depo.
+[RenewOS Sitesi](https://enewos.github.io) için depo.
